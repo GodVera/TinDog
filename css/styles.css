@@ -175,6 +175,9 @@ p {
   h3 {
     font-size: 2rem;
   }
+  .but-down{
+    margin: 5% 1% 1% 0%;
+  }
   .im-rotate {
     position: static;
     transform: rotate(0);
